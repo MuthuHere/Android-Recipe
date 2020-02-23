@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recipe-App</string>
+    <string name="recipe_list">Recipe List</string>
+    <string name="category">Category</string>
+
+    <string-array name="category_type">
+        <item>All Category</item>
+        <item>Breakfast</item>
+        <item>Brunch</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Soups</item>
+        <item>Salads</item>
+    </string-array>
+    <string name="title_activity_recipe_details">Recipe Details </string>
+    <string name="ingredient">Ingredient</string>
+    <string name="duration">Duration</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="title_activity_add_edit">Add Recipe</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="duration_in_minutes">Duration (in minutes)</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
